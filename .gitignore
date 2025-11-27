@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environments
+.env
+.venv
+*.egg-info/
+
+# Data (COCO images & annotations)
+data/
